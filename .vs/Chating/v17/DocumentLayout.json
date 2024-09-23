@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\sw .net\\SignalR\\sr\\Chating\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A62F30-9D91-43D0-B025-718594F76FC0}|Chating\\Chating.csproj|e:\\sw .net\\signalr\\sr\\chating\\chating\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C0A62F30-9D91-43D0-B025-718594F76FC0}|Chating\\Chating.csproj|solutionrelative:chating\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A62F30-9D91-43D0-B025-718594F76FC0}|Chating\\Chating.csproj|e:\\sw .net\\signalr\\sr\\chating\\chating\\chathub .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A62F30-9D91-43D0-B025-718594F76FC0}|Chating\\Chating.csproj|solutionrelative:chating\\chathub .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A62F30-9D91-43D0-B025-718594F76FC0}|Chating\\Chating.csproj|e:\\sw .net\\signalr\\sr\\chating\\chating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A62F30-9D91-43D0-B025-718594F76FC0}|Chating\\Chating.csproj|solutionrelative:chating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A62F30-9D91-43D0-B025-718594F76FC0}|Chating\\Chating.csproj|e:\\sw .net\\signalr\\sr\\chating\\chating\\models\\offlinemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A62F30-9D91-43D0-B025-718594F76FC0}|Chating\\Chating.csproj|solutionrelative:chating\\models\\offlinemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A62F30-9D91-43D0-B025-718594F76FC0}|Chating\\Chating.csproj|e:\\sw .net\\signalr\\sr\\chating\\chating\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A62F30-9D91-43D0-B025-718594F76FC0}|Chating\\Chating.csproj|solutionrelative:chating\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A62F30-9D91-43D0-B025-718594F76FC0}|Chating\\Chating.csproj|e:\\sw .net\\signalr\\sr\\chating\\chating\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A62F30-9D91-43D0-B025-718594F76FC0}|Chating\\Chating.csproj|solutionrelative:chating\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A62F30-9D91-43D0-B025-718594F76FC0}|Chating\\Chating.csproj|e:\\sw .net\\signalr\\sr\\chating\\chating\\migrations\\20240227000354_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A62F30-9D91-43D0-B025-718594F76FC0}|Chating\\Chating.csproj|solutionrelative:chating\\migrations\\20240227000354_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chat.js",
+              "DocumentMoniker": "E:\\sw .net\\SignalR\\sr\\Chating\\Chating\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "Chating\\wwwroot\\js\\chat.js",
+              "ToolTip": "E:\\sw .net\\SignalR\\sr\\Chating\\Chating\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "Chating\\wwwroot\\js\\chat.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-23T20:17:11.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OfflineMessage.cs",
+              "DocumentMoniker": "E:\\sw .net\\SignalR\\sr\\Chating\\Chating\\Models\\OfflineMessage.cs",
+              "RelativeDocumentMoniker": "Chating\\Models\\OfflineMessage.cs",
+              "ToolTip": "E:\\sw .net\\SignalR\\sr\\Chating\\Chating\\Models\\OfflineMessage.cs",
+              "RelativeToolTip": "Chating\\Models\\OfflineMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:41:00.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "E:\\sw .net\\SignalR\\sr\\Chating\\Chating\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "Chating\\Models\\ChatMessage.cs",
+              "ToolTip": "E:\\sw .net\\SignalR\\sr\\Chating\\Chating\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "Chating\\Models\\ChatMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:41:00.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatHub .cs",
+              "DocumentMoniker": "E:\\sw .net\\SignalR\\sr\\Chating\\Chating\\ChatHub .cs",
+              "RelativeDocumentMoniker": "Chating\\ChatHub .cs",
+              "ToolTip": "E:\\sw .net\\SignalR\\sr\\Chating\\Chating\\ChatHub .cs",
+              "RelativeToolTip": "Chating\\ChatHub .cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACoAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:41:00.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\sw .net\\SignalR\\sr\\Chating\\Chating\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Chating\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\sw .net\\SignalR\\sr\\Chating\\Chating\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Chating\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:41:00.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\sw .net\\SignalR\\sr\\Chating\\Chating\\Program.cs",
+              "RelativeDocumentMoniker": "Chating\\Program.cs",
+              "ToolTip": "E:\\sw .net\\SignalR\\sr\\Chating\\Chating\\Program.cs",
+              "RelativeToolTip": "Chating\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:41:00.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240227000354_initial.cs",
+              "DocumentMoniker": "E:\\sw .net\\SignalR\\sr\\Chating\\Chating\\Migrations\\20240227000354_initial.cs",
+              "RelativeDocumentMoniker": "Chating\\Migrations\\20240227000354_initial.cs",
+              "ToolTip": "E:\\sw .net\\SignalR\\sr\\Chating\\Chating\\Migrations\\20240227000354_initial.cs",
+              "RelativeToolTip": "Chating\\Migrations\\20240227000354_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:41:00.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
